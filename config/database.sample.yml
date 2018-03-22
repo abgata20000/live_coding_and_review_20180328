@@ -1,0 +1,10 @@
+development:
+  timeout: 5000
+  adapter: postgresql
+  encoding: utf8
+  pool: 5
+  username: root
+  password:
+  host: localhost
+  port: 5432
+  database: live_coding_and_review_20180328_development
