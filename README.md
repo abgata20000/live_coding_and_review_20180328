@@ -20,6 +20,9 @@ usersとgroupsは1:多の関係です。
 
 PRを作成すると自動でherokuにreview appが立ち上がりますので動作確認にご利用ください。
 
+[![Screenshot from Gyazo](https://gyazo.com/1463ae44e05eeb36abc9f095c746e32b/raw)](https://gyazo.com/1463ae44e05eeb36abc9f095c746e32b)
+
+
 ※push毎にソースの変更が反映され、`rails db:migrate`が実行されます。
 
 わけわからなくなったら再度PRを作り直していただければ新しくreview appが作成されるのでPR閉じて作り直してください。
