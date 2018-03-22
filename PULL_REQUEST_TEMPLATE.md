@@ -1,10 +1,11 @@
-# Issue
+# 自己紹介
 
-# Task
+# 作業内容
 
-# Important point
+# 追加したGem等
 
-# How to check
+# こだわりポイント
 
-# Other
+# 実装時に困ったこと
 
+# その他
